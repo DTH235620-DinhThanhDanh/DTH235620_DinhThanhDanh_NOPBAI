@@ -1,0 +1,1 @@
+#python hỗ trợ các kiểu dữ liệu: kiểu số nguyên, kiểu boolean, kiểu số phức, kiểu số thực, kiểu chuỗi,
